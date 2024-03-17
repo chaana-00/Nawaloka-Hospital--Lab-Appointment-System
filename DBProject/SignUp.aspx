@@ -196,7 +196,7 @@
                             
                             <div class="description">
                             	<p>
-	                            	This is a free <strong>"Login and Registration form"</strong> for Health Care Clinic. 
+	                            	This is a free <strong>"Login and Registration form"</strong> for Nawaloka Hospital Health Care Clinic. 
                             	</p>                            
                             </div>
                         </div>
