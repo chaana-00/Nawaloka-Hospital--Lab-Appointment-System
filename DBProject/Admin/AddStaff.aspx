@@ -222,16 +222,6 @@
                                     <!-- sing up ends here -->
 
 
-                                    
-
-
-
-
-
-
-
-
-
                                 </div>
                              </div>
                         </div>
