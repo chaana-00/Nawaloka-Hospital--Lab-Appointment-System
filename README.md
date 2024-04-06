@@ -6,7 +6,6 @@ This repository contains the source code for a Lab Appointment System, designed 
 
 ========
 Technologies Used:
-========
 
 For Frontend: HTML, CSS, BootStrap, JavaScript
 For Backend: C#, ASP.NET
