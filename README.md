@@ -1,4 +1,6 @@
+========
 👨‍⚕️ Clinic Management System - Made using C#, ASP.net 
+========
 
 A fully featured Lab Appointment System having a well designed Database Schema made as a Advanced Programming project for 1st Semester at Cardiff Metropolitan University - ICBT. 
 
@@ -6,6 +8,7 @@ This repository contains the source code for a Lab Appointment System, designed 
 
 ========
 Technologies Used:
+========
 
 For Frontend: HTML, CSS, BootStrap, JavaScript
 For Backend: C#, ASP.NET
@@ -16,9 +19,9 @@ Microsoft Visual Studio
 Microsoft SQL Server Express
 Microsoft SQL Server Management Studio (SSMS)
 
-=====================================================
+========
 Functionalities Implemented:
-=====================================================
+========
 Our project revolves around three major classes of users. Characteristics of each class are listed below
 
 ============
@@ -45,9 +48,9 @@ Our project revolves around three major classes of users. Characteristics of eac
 5. GenerateBill: He will then generate the bill
 6. PatientHistory: Doctor will be able to see the treatment history of all his treated patients.
 
-=================
+========
 3. Administrator:
-=================
+========
 
 1. Admin Home: Admin can view Clinic stats which includes weekly appointments, income of the Clinic. No of registered patients and doctors along with the list of departments
 2. View Doctors: Admin can view the list of doctors currently registered along with their departments and other information. Complete profile will be shown when clicked.
@@ -56,9 +59,9 @@ Our project revolves around three major classes of users. Characteristics of eac
 5. Search Box: Admin can search for a specific employ within the company by name
 6. Add/Remove: Admin can Add/remove doctors patients and other staff members form the clinic.
 
-=====================================================
+========
 How to Run
-=====================================================
+========
 1- Install the following:
 Microsoft Visual Studio
 Microsoft SQL Server Express
