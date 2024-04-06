@@ -24,9 +24,8 @@ Functionalities Implemented:
 ========
 Our project revolves around three major classes of users. Characteristics of each class are listed below
 
-============
-1. Patient:
-============
+
+======== Patient:
    
 1. Patient Home – Patient can view his profile
 2. Current Appointment – Patient can view if he has some pending or approved appointment with a doctor
@@ -37,9 +36,7 @@ Our project revolves around three major classes of users. Characteristics of eac
 7. Feedback – After a appointment is completed, patient can give feedback about that appointment by rating it from 1 – 5
 8. A patient can request for only one appointment at a time and will not be allowed to take more than one appointments until the last appointment has been completed.
 
-===========
-2. Doctor:
-===========
+======== Doctor:
 
 1. DoctorProfile: Doctor can see his own profile
 2. PendingAppointments: Doctor can see all the pending appointments against his doctor ID.
@@ -48,9 +45,7 @@ Our project revolves around three major classes of users. Characteristics of eac
 5. GenerateBill: He will then generate the bill
 6. PatientHistory: Doctor will be able to see the treatment history of all his treated patients.
 
-========
-3. Administrator:
-========
+======== Administrator:
 
 1. Admin Home: Admin can view Clinic stats which includes weekly appointments, income of the Clinic. No of registered patients and doctors along with the list of departments
 2. View Doctors: Admin can view the list of doctors currently registered along with their departments and other information. Complete profile will be shown when clicked.
@@ -62,6 +57,7 @@ Our project revolves around three major classes of users. Characteristics of eac
 ========
 How to Run
 ========
+
 1- Install the following:
 Microsoft Visual Studio
 Microsoft SQL Server Express
