@@ -5,7 +5,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
 
-    <title>Nawaloka Hospital Health Care Login &amp; Register</title>
+    <title>Nawaloka Hospital - Health Care Login &amp; Register</title>
 
 
  <script type="text/javascript">
