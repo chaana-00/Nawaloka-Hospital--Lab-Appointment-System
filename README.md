@@ -1,6 +1,4 @@
-========
-👨‍⚕️ Clinic Management System - Made using C#, ASP.net 
-========
+#👨‍⚕️ Clinic Management System - Made using C#, ASP.net 
 
 A fully featured Lab Appointment System having a well designed Database Schema made as a Advanced Programming project for 1st Semester at Cardiff Metropolitan University - ICBT. 
 
