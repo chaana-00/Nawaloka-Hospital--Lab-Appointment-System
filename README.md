@@ -90,4 +90,19 @@ Authentication: Windows Authentication
 **5- Everything is setup now:** You can run the Visual Studio Project by opening Clinic Management System.sln and then select the SignUp.aspx page and click run button named IIS Express.
 
 
+### Gallery
 
+<table>
+  <tr>
+<td><img width="1440" alt="Screenshot 2024-06-06 at 20 06 24" src="https://github.com/chaana-00/Lab-Appointment-System-Project/blob/master/images/login%20and%20signup.png" ></td>
+<td><img width="1414" alt="Screenshot 2024-06-06 at 20 06 54" src="https://github.com/chaana-00/Lab-Appointment-System-Project/blob/master/images/admin%20homepage.png" ></td>
+  </tr>
+   
+   <tr>
+<td><img width="1414" alt="Screenshot 2024-06-06 at 20 06 54" src="https://github.com/chaana-00/Lab-Appointment-System-Project/blob/master/images/doctor%20registration.png" ></td>
+   <td><img width="1414" alt="Screenshot 2024-06-06 at 20 06 54" src="https://github.com/chaana-00/Lab-Appointment-System-Project/blob/master/images/manage%20clinic.png" ></td>
+   </tr>
+
+   <tr>
+<td><img width="1414" alt="Screenshot 2024-06-06 at 20 06 54" src="https://github.com/chaana-00/Lab-Appointment-System-Project/blob/master/images/staff%20registration.png" ></td>
+  </tr>
